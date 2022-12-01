@@ -1,0 +1,203 @@
+
+data = [
+    {
+        "question": "Los nutrientes son:",
+        "answers":{
+            "a": "un alimento es específico",
+            "b": "una sustancia quimica, presente en los alimentos.",
+            "c": "algunos alimentos que consumimos",
+            "d": "solo proteínas presentes en los alimentos"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "Hay seres vivos u organismos que se alimentan a su vez de otros",
+        "answers":{
+            "a": "Autótrofo",
+            "b": "Plantas",
+            "c": "Heterótrofo",
+            "d": "Árboles"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "Los seres vivos deben incorporar nutrientes a su estructura porque",
+        "answers":{
+            "a": "les sobra energia y deben compartirla",
+            "b": "pueden perder peso",
+            "c": "no pueden fabricarlos ellos mismos.",
+            "d": "no los necesitan"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "¿Cómo se llama el proceso por el que los seres vivos toman alimentos, los aprovechan y expulsan sustancias de deshecho que se producen? ",
+        "answers":{
+            "a": "Nutrición.",
+            "b": "Alimentación.",
+            "c": "Relación.",
+            "d": "Reproducción."
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "Es cualquier sustancia (sólida o líquida) que puede ser ingerida por los seres vivos concepto que corresponde a:",
+        "answers":{
+            "a": "nutriente",
+            "b": "alimento",
+            "c": "alimentación",
+            "d": "nutrición"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "Actos voluntarios y consciente que termina con la deglución del alimento concepto que corresponde a:",
+        "answers":{
+            "a": "Nutrición",
+            "b": "Nutriente",
+            "c": "Alimentación",
+            "d": "Alimento"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "¿Qué grupos de alimentos tienen principalmente una función energética? ",
+        "answers":{
+            "a": "Hidratos de carbono",
+            "b": "Minerales",
+            "c": "Vitaminas",
+            "d": "Proteínas"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "De los siguientes alimentos, ¿cuáles son grasas? ",
+        "answers":{
+            "a": "Carne",
+            "b": "Mantequilla",
+            "c": "Mermelada",
+            "d": "Huevo"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "De los siguientes alimentos, ¿cuáles son proteínas?",
+        "answers":{
+            "a": "Carne",
+            "b": "Mermelada",
+            "c": "Cereales",
+            "d": "Aceite de oliva"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "El arroz es un ejemplo de",
+        "answers":{
+            "a": "Vitamina",
+            "b": "Proteína",
+            "c": "Carbohidrato",
+            "d": "Lípido"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "¿Cuál de estos alimentos NO es un carbohidrato?",
+        "answers":{
+            "a": "Tallarines",
+            "b": "Jugo de piña",
+            "c": "Palta",
+            "d": "Avena"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "Aportan energía rápida que nuestro organismo puede utilizar en el momento. Conocidos comunmente como azúcares.",
+        "answers":{
+            "a": "hidratos de carbono",
+            "b": "lípidos",
+            "c": "proteínas",
+            "d": "minerales y vitaminas"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "Son la principal fuente energética y se encuentran en las harinas, frutas, pastas, dulces, arroz, papa entre otros.",
+        "answers":{
+            "a": "hidratos de carbono",
+            "b": "lípidos",
+            "c": "proteínas",
+            "d": "minerales y vitaminas"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "Son el grupo de sustancias que son insolubles en agua, proveen de energía de reserva a nuestro organismo.",
+        "answers":{
+            "a": "hidratos de carbono",
+            "b": "lípidos",
+            "c": "proteínas",
+            "d": "minerales y vitaminas"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "Son grandes moléculas formadas por unidades más pequeas llamadas aminoácidos que se unen entre sí.",
+        "answers":{
+            "a": "hidratos de carbono",
+            "b": "lípidos",
+            "c": "proteínas",
+            "d": "minerales y vitaminas"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "Las unidades más pequeñas de las proteínas son",
+        "answers":{
+            "a": "aminoácidos",
+            "b": "lípidos",
+            "c": "proteínas",
+            "d": "minerales y vitaminas"
+        },
+        "correctAnswer": "a"
+    },
+    {
+        "question": "Es el componente más abundante del organismo.",
+        "answers":{
+            "a": "proteínas",
+            "b": "hidratos de carbono",
+            "c": "agua",
+            "d": "lípidos"
+        },
+        "correctAnswer": "c"
+    },
+    {
+        "question": "Disuelve y transporta otros nutrientes y proporciona el medio para que se desarrollen todas las reacciones químicas del organismo.",
+        "answers":{
+            "a": "hidratos de carbono",
+            "b": "lípidos",
+            "c": "proteínas",
+            "d": "agua"
+        },
+        "correctAnswer": "d"
+    },
+    {
+        "question": "La alimentación saludable es una alimentación:",
+        "answers":{
+            "a": "La alimentación saludable es una alimentación:",
+            "b": "Variada, segura y balanceda",
+            "c": "En base a galletas, vitaminas y menestras",
+            "d": "De preferencia menestras, mucha agua y tamabén gaseosas"
+        },
+        "correctAnswer": "b"
+    },
+    {
+        "question": "El consumo de las frutas son importantes porque:",
+        "answers":{
+            "a": "Dan mucha energía para realizar nuestras actividades",
+            "b": "lípNos dan bastante energía para crecer sanosidos",
+            "c": "Porque tiene bastante calcio y son buenos para nuestros huesos",
+            "d": "Contienen vitaminas y minerales y protegen nuestra salud"
+        },
+        "correctAnswer": "a"
+    }
+];
